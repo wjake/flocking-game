@@ -1,0 +1,11 @@
+{
+    "name": "flockinggame",
+    "version": "1.0.0",
+    "builtin-baseline": "08ef4d0ea1a229b16d92598e5eef160cbcebe6ed",
+    "dependencies": [
+        "sdl2",
+        "sdl2-image",
+        "rapidjson",
+        "gtest"
+    ]
+}
