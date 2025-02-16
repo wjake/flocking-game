@@ -6,7 +6,7 @@ Simple game inspired by [Vampire Survivors](https://store.steampowered.com/app/1
 
 Enemies will appear on the arena’s edge and head towards the player, who’s goal is to survive for as long as possible. The game progresses in waves, with each wave increasing enemy numbers and health. Players can dodge enemies, wield weapons to damage and kill them, and collect food items that restore health. Enemies will maintain separation to remain visible and avoid overlap, and alignment to steer towards the player. Cohesion could keep certain enemy types in groups.
 
-![Game screenshot](img/image.png)
+![Game screenshot](<img/Screenshot 2025-01-30 at 07.26.02.png>)
 
 ## Requirements
 
