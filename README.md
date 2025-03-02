@@ -1,6 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/RM1pL2Qm)
-
-# Project Idea
+# 2D Flocking Game
 
 Simple game inspired by [Vampire Survivors](https://store.steampowered.com/app/1794680/Vampire_Survivors/) which will make use of a flocking system and will be built using SDL2.  
 
